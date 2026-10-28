@@ -1,0 +1,3236 @@
+[
+  {
+    "id": "msq-0001",
+    "name": "Soul Searching",
+    "expansion": "Post-Stormblood",
+    "patch": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+    "level": 70
+  },
+  {
+    "id": "msq-0002",
+    "name": "A Defector's Tidings",
+    "expansion": "Post-Stormblood",
+    "patch": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+    "level": 70
+  },
+  {
+    "id": "msq-0003",
+    "name": "Seiryu's Wall",
+    "expansion": "Post-Stormblood",
+    "patch": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+    "level": 70
+  },
+  {
+    "id": "msq-0004",
+    "name": "Parley on the Front Lines",
+    "expansion": "Post-Stormblood",
+    "patch": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+    "level": 70
+  },
+  {
+    "id": "msq-0005",
+    "name": "The Face of War",
+    "expansion": "Post-Stormblood",
+    "patch": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+    "level": 70
+  },
+  {
+    "id": "msq-0006",
+    "name": "A Brief Reprieve",
+    "expansion": "Post-Stormblood",
+    "patch": "Patch 4.56 (A Requiem for Heroes - Part 2)",
+    "level": 70
+  },
+  {
+    "id": "msq-0007",
+    "name": "A Requiem for Heroes",
+    "expansion": "Post-Stormblood",
+    "patch": "Patch 4.56 (A Requiem for Heroes - Part 2)",
+    "level": 70
+  },
+  {
+    "id": "msq-0008",
+    "name": "The Syrcus Trench",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0009",
+    "name": "City of the First",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0010",
+    "name": "Travelers of Norvrandt",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0011",
+    "name": "In Search of Alphinaud",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0012",
+    "name": "A Still Tide",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0013",
+    "name": "Open Arms, Closed Gate",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0014",
+    "name": "A Fickle Existence",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0015",
+    "name": "City of Final Pleasures",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0016",
+    "name": "Free to Sightsee",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0017",
+    "name": "A Taste of Honey",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0018",
+    "name": "A Blessed Instrument",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0019",
+    "name": "Emergent Splendor",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0020",
+    "name": "In Search of Alisaie",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0021",
+    "name": "City of the Mord",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0022",
+    "name": "Working Off the Meal",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0023",
+    "name": "A Desert Crossing",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0024",
+    "name": "Following in Her Footprints",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0025",
+    "name": "Culling Their Ranks",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0026",
+    "name": "A Purchase of Fruit",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0027",
+    "name": "The Time Left to Us",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0028",
+    "name": "Tears on the Sand",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 70
+  },
+  {
+    "id": "msq-0029",
+    "name": "The Lightwardens",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 71
+  },
+  {
+    "id": "msq-0030",
+    "name": "Warrior of Darkness",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 70-71",
+    "level": 71
+  },
+  {
+    "id": "msq-0031",
+    "name": "An Unwelcome Guest",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0032",
+    "name": "The Crystarium's Resolve",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0033",
+    "name": "Logistics of War",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0034",
+    "name": "The Oracle of Light",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0035",
+    "name": "Il Mheg, the Faerie Kingdom",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0036",
+    "name": "Sul Uin's Request",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0037",
+    "name": "Ys Iala's Errand",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0038",
+    "name": "Oul Sigun's Plea",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0039",
+    "name": "Unto the Truth",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0040",
+    "name": "Courting Cooperation",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 72
+  },
+  {
+    "id": "msq-0041",
+    "name": "The Key to the Castle",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0042",
+    "name": "A Visit to the Nu Mou",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0043",
+    "name": "A Fitting Payment",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0044",
+    "name": "Spore Sweeper",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0045",
+    "name": "The Lawless Ones",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0046",
+    "name": "The Elder's Answer",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0047",
+    "name": "A Resounding Roar",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0048",
+    "name": "Memento of a Friend",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0049",
+    "name": "Acht-la Ormh Inn",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0050",
+    "name": "The Wheel Turns",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 72-73",
+    "level": 73
+  },
+  {
+    "id": "msq-0051",
+    "name": "A Party Soon Divided",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0052",
+    "name": "A Little Faith",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0053",
+    "name": "Into the Dark",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0054",
+    "name": "A Day in the Neighborhood",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0055",
+    "name": "A Helping Hand",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0056",
+    "name": "Lost but Not Forgotten",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0057",
+    "name": "Saying Good-bye",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0058",
+    "name": "Stirring up Trouble",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0059",
+    "name": "A Beeautiful Plan",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0060",
+    "name": "An Unwanted Proposal",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0061",
+    "name": "Put to the Proof",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 74
+  },
+  {
+    "id": "msq-0062",
+    "name": "Into the Wood",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0063",
+    "name": "Top of the Tree",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0064",
+    "name": "Look to the Stars",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0065",
+    "name": "Mi Casa, Toupasa",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0066",
+    "name": "Legend of the Not-so-hidden Temple",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0067",
+    "name": "The Aftermath",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0068",
+    "name": "In Good Faith",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0069",
+    "name": "The Burden of Knowledge",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0070",
+    "name": "Bearing With It",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 74-75",
+    "level": 75
+  },
+  {
+    "id": "msq-0071",
+    "name": "Out of the Wood",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0072",
+    "name": "When It Rains",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0073",
+    "name": "Word from On High",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0074",
+    "name": "Small Favors",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0075",
+    "name": "The Best Way Out",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0076",
+    "name": "Free Trade",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0077",
+    "name": "The Trolley Problem",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0078",
+    "name": "Rust and Ruin",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0079",
+    "name": "On Track",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0080",
+    "name": "Down for Maintenance",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0081",
+    "name": "The Truth Hurts",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 76
+  },
+  {
+    "id": "msq-0082",
+    "name": "A Convenient Distraction",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0083",
+    "name": "A Dirty Job",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0084",
+    "name": "Have a Heart",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0085",
+    "name": "Full Steam Ahead",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0086",
+    "name": "Crossing Paths",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0087",
+    "name": "A Fresh Start",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0088",
+    "name": "More than a Hunch",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0089",
+    "name": "Return to Eulmore",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0090",
+    "name": "A Feast of Lies",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0091",
+    "name": "Paradise Fallen",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 76-77",
+    "level": 77
+  },
+  {
+    "id": "msq-0092",
+    "name": "The Ladder",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0093",
+    "name": "The View from Above",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0094",
+    "name": "In Mt. Gulg's Shadow",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0095",
+    "name": "A Gigantic Undertaking",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0096",
+    "name": "Meet the Tholls",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0097",
+    "name": "A-Digging We Will Go",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0098",
+    "name": "The Duergar's Tewel",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0099",
+    "name": "Rich Veins of Hope",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0100",
+    "name": "That None Shall Ever Again",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0101",
+    "name": "A Breath of Respite",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 78
+  },
+  {
+    "id": "msq-0102",
+    "name": "Extinguishing the Last Light",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0103",
+    "name": "Reassuring the Masses",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0104",
+    "name": "In His Garden",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0105",
+    "name": "The Unbroken Thread",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0106",
+    "name": "To Storm-tossed Seas",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0107",
+    "name": "Waiting in the Depths",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0108",
+    "name": "City of the Ancients",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0109",
+    "name": "The Light of Inspiration",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 79
+  },
+  {
+    "id": "msq-0110",
+    "name": "The Illuminated Land",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 80
+  },
+  {
+    "id": "msq-0111",
+    "name": "The End of a World",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 80
+  },
+  {
+    "id": "msq-0112",
+    "name": "A Greater Purpose",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 80
+  },
+  {
+    "id": "msq-0113",
+    "name": "Shadowbringers",
+    "expansion": "Shadowbringers",
+    "patch": "Levels 78-80",
+    "level": 80
+  },
+  {
+    "id": "msq-0114",
+    "name": "Shaken Resolve",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0115",
+    "name": "A Grand Adventure",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0116",
+    "name": "A Welcome Guest",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0117",
+    "name": "Good for the Soul",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0118",
+    "name": "Nowhere to Turn",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0119",
+    "name": "A Notable Absence",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0120",
+    "name": "For the People",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0121",
+    "name": "Finding Good Help",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0122",
+    "name": "Moving Forward",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0123",
+    "name": "Vows of Virtue, Deeds of Cruelty",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+    "level": 80
+  },
+  {
+    "id": "msq-0124",
+    "name": "Old Enemies, New Threats",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0125",
+    "name": "The Way Home",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0126",
+    "name": "Seeking Counsel",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0127",
+    "name": "Facing the Truth",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0128",
+    "name": "A Sleep Disturbed",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0129",
+    "name": "An Old Friend",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0130",
+    "name": "Deep Designs",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0131",
+    "name": "A Whale's Tale",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0132",
+    "name": "Beneath the Surface",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0133",
+    "name": "Echoes of a Fallen Star",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.2 (Echoes of a Fallen Star)",
+    "level": 80
+  },
+  {
+    "id": "msq-0134",
+    "name": "In the Name of the Light",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0135",
+    "name": "Heroic Dreams",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0136",
+    "name": "Fraying Threads",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0137",
+    "name": "Food for the Soul",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0138",
+    "name": "Faded Memories",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0139",
+    "name": "Etched in the Stars",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0140",
+    "name": "The Converging Light",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0141",
+    "name": "Hope's Confluence",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0142",
+    "name": "Nothing Unsaid",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0143",
+    "name": "The Journey Continues",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0144",
+    "name": "Unto the Morrow",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0145",
+    "name": "Reflections in Crystal",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.3 (Reflections in Crystal)",
+    "level": 80
+  },
+  {
+    "id": "msq-0146",
+    "name": "Alisaie's Quest",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0147",
+    "name": "The Wisdom of Allag",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0148",
+    "name": "Reviving the Legacy",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0149",
+    "name": "Forget Us Not",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0150",
+    "name": "Like Master, Like Pupil",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0151",
+    "name": "The Admiral's Resolve",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0152",
+    "name": "The Search for Sicard",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0153",
+    "name": "On Rough Seas",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0154",
+    "name": "The Great Ship Vylbrand",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0155",
+    "name": "Futures Rewritten",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.4 (Futures Rewritten)",
+    "level": 80
+  },
+  {
+    "id": "msq-0156",
+    "name": "Unto the Breach",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.5 (Death Unto Dawn - Part 1)",
+    "level": 80
+  },
+  {
+    "id": "msq-0157",
+    "name": "Here Be Dragons",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.5 (Death Unto Dawn - Part 1)",
+    "level": 80
+  },
+  {
+    "id": "msq-0158",
+    "name": "Righteous Indignation",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.5 (Death Unto Dawn - Part 1)",
+    "level": 80
+  },
+  {
+    "id": "msq-0159",
+    "name": "For Vengeance",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.5 (Death Unto Dawn - Part 1)",
+    "level": 80
+  },
+  {
+    "id": "msq-0160",
+    "name": "The Flames of War",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.5 (Death Unto Dawn - Part 1)",
+    "level": 80
+  },
+  {
+    "id": "msq-0161",
+    "name": "When the Dust Settles",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.5 (Death Unto Dawn - Part 1)",
+    "level": 80
+  },
+  {
+    "id": "msq-0162",
+    "name": "The Company We Keep",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.55 (Death Unto Dawn - Part 2)",
+    "level": 80
+  },
+  {
+    "id": "msq-0163",
+    "name": "On Official Business",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.55 (Death Unto Dawn - Part 2)",
+    "level": 80
+  },
+  {
+    "id": "msq-0164",
+    "name": "Death Unto Dawn",
+    "expansion": "Post-Shadowbringers",
+    "patch": "Patch 5.55 (Death Unto Dawn - Part 2)",
+    "level": 80
+  },
+  {
+    "id": "msq-0165",
+    "name": "The Next Ship to Sail",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0166",
+    "name": "Old Sharlayan, New to You",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0167",
+    "name": "Hitting the Books",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0168",
+    "name": "A Seat at the Last Stand",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0169",
+    "name": "A Labyrinthine Descent",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0170",
+    "name": "Glorified Ratcatcher",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0171",
+    "name": "Deeper into the Maze",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0172",
+    "name": "The Medial Circuit",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0173",
+    "name": "The Full Report, Warts and All",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0174",
+    "name": "A Guide of Sorts",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0175",
+    "name": "Estate Visitor",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0176",
+    "name": "For Thavnair Bound",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0177",
+    "name": "On Low Tide",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0178",
+    "name": "A Fisherman's Friend",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0179",
+    "name": "House of Divinities",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0180",
+    "name": "The Great Work",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0181",
+    "name": "Shadowed Footsteps",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0182",
+    "name": "A Boy's Errand",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0183",
+    "name": "Tipping the Scale",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0184",
+    "name": "The Satrap of Radz-at-Han",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 80
+  },
+  {
+    "id": "msq-0185",
+    "name": "In the Dark of the Tower",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 81
+  },
+  {
+    "id": "msq-0186",
+    "name": "The Jewel of Thavnair",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 81
+  },
+  {
+    "id": "msq-0187",
+    "name": "The Color of Joy",
+    "expansion": "Endwalker",
+    "patch": "Levels 80-81",
+    "level": 81
+  },
+  {
+    "id": "msq-0188",
+    "name": "Sound the Bell, School's In",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0189",
+    "name": "A Capital Idea",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0190",
+    "name": "Best of the Best",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0191",
+    "name": "A Frosty Reception",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0192",
+    "name": "Tracks in the Snow",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0193",
+    "name": "How the Mighty Are Fallen",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0194",
+    "name": "At the End of the Trail",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0195",
+    "name": "A Way Forward",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0196",
+    "name": "The Last Bastion",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0197",
+    "name": "Personae non Gratae",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 82
+  },
+  {
+    "id": "msq-0198",
+    "name": "His Park Materials",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0199",
+    "name": "No Good Deed",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0200",
+    "name": "Alea Iacta Est",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0201",
+    "name": "Strange Bedfellows",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0202",
+    "name": "In from the Cold",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0203",
+    "name": "Gateway of the Gods",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0204",
+    "name": "A Trip to the Moon",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0205",
+    "name": "Sea of Sorrow",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0206",
+    "name": "The Martyr",
+    "expansion": "Endwalker",
+    "patch": "Levels 82-83",
+    "level": 83
+  },
+  {
+    "id": "msq-0207",
+    "name": "In Shadow's Wake",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0208",
+    "name": "Helping Hands",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0209",
+    "name": "A Harey Situation",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0210",
+    "name": "A Taste of the Moon",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0211",
+    "name": "Styled a Hero",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0212",
+    "name": "All's Vale That Endsvale",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0213",
+    "name": "Back to Old Tricks",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0214",
+    "name": "Setting Things Straight",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0215",
+    "name": "Heart of the Matter",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0216",
+    "name": "Returning Home",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 84
+  },
+  {
+    "id": "msq-0217",
+    "name": "Skies Aflame",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0218",
+    "name": "The Blasphemy Unmasked",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0219",
+    "name": "Amidst the Apocalypse",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0220",
+    "name": "Beyond the Depths of Despair",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0221",
+    "name": "That We Might Live",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0222",
+    "name": "When All Hope Seems Lost",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0223",
+    "name": "Warm Hearts, Rekindled Hopes",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0224",
+    "name": "Simple Pleasures",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0225",
+    "name": "Under His Wing",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0226",
+    "name": "At World's End",
+    "expansion": "Endwalker",
+    "patch": "Levels 84-85",
+    "level": 85
+  },
+  {
+    "id": "msq-0227",
+    "name": "Return to the Crystarium",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0228",
+    "name": "Hope Upon a Flower",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0229",
+    "name": "Petalouda Hunt",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0230",
+    "name": "In Search of Hermes",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0231",
+    "name": "Ponder, Warrant, Cherish, Welcome",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0232",
+    "name": "Lives Apart",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0233",
+    "name": "Their Greatest Contribution",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0234",
+    "name": "Aether to Aether",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0235",
+    "name": "A Sentimental Gift",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0236",
+    "name": "Verdict and Execution",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 86
+  },
+  {
+    "id": "msq-0237",
+    "name": "Travelers at the Crossroads",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0238",
+    "name": "A Past, Not Yet Come to Pass",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0239",
+    "name": "Witness to the Spectacle",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0240",
+    "name": "Worthy of His Back",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0241",
+    "name": "A Flower upon Your Return",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0242",
+    "name": "Hunger in the Garden",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0243",
+    "name": "Words without Sound",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0244",
+    "name": "Follow, Wander, Stumble, Listen",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0245",
+    "name": "Caging the Messenger",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0246",
+    "name": "Thou Must Live, Die, and Know",
+    "expansion": "Endwalker",
+    "patch": "Levels 86-87",
+    "level": 87
+  },
+  {
+    "id": "msq-0247",
+    "name": "As the Heavens Burn",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0248",
+    "name": "Outside Help",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0249",
+    "name": "Going Underground",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0250",
+    "name": "No Job Too Small",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0251",
+    "name": "Wise Guides",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0252",
+    "name": "Agriculture Shock",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0253",
+    "name": "Sage Council",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0254",
+    "name": "Hither and Yarns",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0255",
+    "name": "Once Forged",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0256",
+    "name": "Bonds of Adamant(ite)",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 88
+  },
+  {
+    "id": "msq-0257",
+    "name": "Her Children, One and All",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0258",
+    "name": "A Bold Decision",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0259",
+    "name": "Friends Gathered",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0260",
+    "name": "Unto the Heavens",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0261",
+    "name": "A §trαnge New World",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0262",
+    "name": "On Burdεned ωings",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0263",
+    "name": "A Test of Wιll",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0264",
+    "name": "Roads Pαved││Sacri┣ice",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0265",
+    "name": "F//εsh AbanΔon┨Δ",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0266",
+    "name": "Where Kn∞wledge Leads",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 89
+  },
+  {
+    "id": "msq-0267",
+    "name": "Vic┨οry ̈ ̈ ̈╳, │̆││ε Lost",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 90
+  },
+  {
+    "id": "msq-0268",
+    "name": "┣┨̈//̈ No┨ΦounΔ•••",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 90
+  },
+  {
+    "id": "msq-0269",
+    "name": "Hello, World",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 90
+  },
+  {
+    "id": "msq-0270",
+    "name": "Forge Ahead",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 90
+  },
+  {
+    "id": "msq-0271",
+    "name": "You're Not Alone",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 90
+  },
+  {
+    "id": "msq-0272",
+    "name": "Endwalker",
+    "expansion": "Endwalker",
+    "patch": "Levels 88-90",
+    "level": 90
+  },
+  {
+    "id": "msq-0273",
+    "name": "Newfound Adventure",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0274",
+    "name": "Bountiful Ruins",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0275",
+    "name": "Friends for the Road",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0276",
+    "name": "Alzadaal's Legacy",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0277",
+    "name": "A Brother's Grief",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0278",
+    "name": "Sharing the Wealth",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0279",
+    "name": "Bridging the Rift",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0280",
+    "name": "Restricted Reading",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0281",
+    "name": "Void Theory",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0282",
+    "name": "A Satrap's Duty",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.1 (Newfound Adventure)",
+    "level": 90
+  },
+  {
+    "id": "msq-0283",
+    "name": "In Search of Azdaja",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0284",
+    "name": "Shadowed Remnants",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0285",
+    "name": "Where Everything Begins",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0286",
+    "name": "Groping in the Dark",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0287",
+    "name": "Nowhere to Run",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0288",
+    "name": "The Wind Rises",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0289",
+    "name": "Return from the Void",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0290",
+    "name": "A World with Light and Life",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0291",
+    "name": "Buried Memory",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.2 (Buried Memory)",
+    "level": 90
+  },
+  {
+    "id": "msq-0292",
+    "name": "Once More unto the Void",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0293",
+    "name": "A Cold Reunion",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0294",
+    "name": "Kindled Spirit",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0295",
+    "name": "An Unforeseen Bargain",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0296",
+    "name": "King of the Mountain",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0297",
+    "name": "A Dragon's Resolve",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0298",
+    "name": "Paths Barred",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0299",
+    "name": "Desires Untold",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0300",
+    "name": "Gods Revel, Lands Tremble",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.3 (Gods Revel, Lands Tremble)",
+    "level": 90
+  },
+  {
+    "id": "msq-0301",
+    "name": "Currying Flavor",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0302",
+    "name": "Going Haam",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0303",
+    "name": "Like Fear to Flame",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0304",
+    "name": "The Fallen Empire",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0305",
+    "name": "Bonds of Trust",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0306",
+    "name": "Lunar Rendezvous",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0307",
+    "name": "The Red Side of the Moon",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0308",
+    "name": "Abyssal Dark",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0309",
+    "name": "The Dark Throne",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.4 (The Dark Throne)",
+    "level": 90
+  },
+  {
+    "id": "msq-0310",
+    "name": "Seeking the Light",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.5 (Growing Light - Part 1)",
+    "level": 90
+  },
+  {
+    "id": "msq-0311",
+    "name": "Appealing to the Masses",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.5 (Growing Light - Part 1)",
+    "level": 90
+  },
+  {
+    "id": "msq-0312",
+    "name": "In Defiance of Fate",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.5 (Growing Light - Part 1)",
+    "level": 90
+  },
+  {
+    "id": "msq-0313",
+    "name": "Back to Action",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.5 (Growing Light - Part 1)",
+    "level": 90
+  },
+  {
+    "id": "msq-0314",
+    "name": "Down in the Dark",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.5 (Growing Light - Part 1)",
+    "level": 90
+  },
+  {
+    "id": "msq-0315",
+    "name": "Reunited at Last",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.5 (Growing Light - Part 1)",
+    "level": 90
+  },
+  {
+    "id": "msq-0316",
+    "name": "Growing Light",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.5 (Growing Light - Part 1)",
+    "level": 90
+  },
+  {
+    "id": "msq-0317",
+    "name": "When One Door Closes...",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.55 (Growing Light - Part 2)",
+    "level": 90
+  },
+  {
+    "id": "msq-0318",
+    "name": "The Game Is Afoot",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.55 (Growing Light - Part 2)",
+    "level": 90
+  },
+  {
+    "id": "msq-0319",
+    "name": "The Coming Dawn",
+    "expansion": "Post-Endwalker",
+    "patch": "Patch 6.55 (Growing Light - Part 2)",
+    "level": 90
+  },
+  {
+    "id": "msq-0320",
+    "name": "A New World to Explore",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0321",
+    "name": "The Nation of Tuliyollal",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0322",
+    "name": "A City of Stairs",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0323",
+    "name": "A Saga in Stone",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0324",
+    "name": "The Rite of Succession",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0325",
+    "name": "To Kozama'uka",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0326",
+    "name": "A Festive People",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0327",
+    "name": "The Feat of Reeds",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0328",
+    "name": "A Well-mannered Shipwright",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0329",
+    "name": "The Lifting of Wings",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0330",
+    "name": "Knowing the Hanuhanu",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0331",
+    "name": "To Urqopacha",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0332",
+    "name": "Traders of Happiness",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0333",
+    "name": "The Feat of Gold",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0334",
+    "name": "Mablu's Dream",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0335",
+    "name": "A Premium Deal",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0336",
+    "name": "Wuk Lamat in the Saddle",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0337",
+    "name": "Knowing the Pelupelu",
+    "expansion": "Dawntrail",
+    "patch": "Level 90",
+    "level": 90
+  },
+  {
+    "id": "msq-0338",
+    "name": "The Success of Others",
+    "expansion": "Dawntrail",
+    "patch": "Level 91",
+    "level": 91
+  },
+  {
+    "id": "msq-0339",
+    "name": "For All Turali",
+    "expansion": "Dawntrail",
+    "patch": "Level 91",
+    "level": 91
+  },
+  {
+    "id": "msq-0340",
+    "name": "A Leaking Workpot",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0341",
+    "name": "Lending a Helphand",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0342",
+    "name": "The Feat of Pots",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0343",
+    "name": "A Father First",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0344",
+    "name": "The Shape of Peace",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0345",
+    "name": "Lost Promise",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0346",
+    "name": "A Brother's Duty",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0347",
+    "name": "Feeding the River",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0348",
+    "name": "Sibling Rescue",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 92
+  },
+  {
+    "id": "msq-0349",
+    "name": "History's Keepers",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0350",
+    "name": "The Feat of Proof",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0351",
+    "name": "The High Luminary",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0352",
+    "name": "An Echo of Madness",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0353",
+    "name": "Pointing the Way",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0354",
+    "name": "The Skyruin",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0355",
+    "name": "The Feat of Ice",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0356",
+    "name": "The Promise of Peace",
+    "expansion": "Dawntrail",
+    "patch": "Level 92-93",
+    "level": 93
+  },
+  {
+    "id": "msq-0357",
+    "name": "The Leap to Yak T'el",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0358",
+    "name": "Village of the Hunt",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0359",
+    "name": "A History of Violence",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0360",
+    "name": "The Feat of Repast",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0361",
+    "name": "A Father's Grief",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0362",
+    "name": "Taking a Stand",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0363",
+    "name": "Into the Traverse",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0364",
+    "name": "City of Silence",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0365",
+    "name": "Blessed Siblings",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0366",
+    "name": "Scale of Trust",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 94
+  },
+  {
+    "id": "msq-0367",
+    "name": "Mamook Speaks",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0368",
+    "name": "The Feat of the Brotherhood",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0369",
+    "name": "Road to the Golden City",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0370",
+    "name": "Dawn of a New Tomorrow",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0371",
+    "name": "Ever Greater, Ever Brighter",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0372",
+    "name": "The Long Road to Xak Tural",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0373",
+    "name": "Saddled Up",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0374",
+    "name": "Braced for Trouble",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0375",
+    "name": "Blowing Smoke",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0376",
+    "name": "Law of the Land",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0377",
+    "name": "On Track (Dawntrail)",
+    "expansion": "Dawntrail",
+    "patch": "Level 94-95",
+    "level": 95
+  },
+  {
+    "id": "msq-0378",
+    "name": "One with Nature",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0379",
+    "name": "And the Land Would Tremble",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0380",
+    "name": "No Time for Tears",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0381",
+    "name": "Pick up the Pieces",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0382",
+    "name": "Together as One",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0383",
+    "name": "In Yyasulani's Shadow",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0384",
+    "name": "Putting Plans into Locomotion",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0385",
+    "name": "A Hot Commodity",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 96
+  },
+  {
+    "id": "msq-0386",
+    "name": "All Aboard",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0387",
+    "name": "The Land of Levin",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0388",
+    "name": "A Royal Welcome",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0389",
+    "name": "A Day in the Life",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0390",
+    "name": "On the Cloud",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0391",
+    "name": "Gone and Forgotten",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0392",
+    "name": "Embracing Oblivion",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0393",
+    "name": "Solution Nine (Quest)",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0394",
+    "name": "The Queen's Tour",
+    "expansion": "Dawntrail",
+    "patch": "Level 96-97",
+    "level": 97
+  },
+  {
+    "id": "msq-0395",
+    "name": "Her People, Her Family",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0396",
+    "name": "Scales of Blue",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0397",
+    "name": "Gives You Teeth",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0398",
+    "name": "Little Footfalls",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0399",
+    "name": "Drowned Vestiges",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0400",
+    "name": "Memories of a Knight",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0401",
+    "name": "At a Crossroads",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0402",
+    "name": "The Protector and the Destroyer",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 98
+  },
+  {
+    "id": "msq-0403",
+    "name": "A Comforting Hand",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0404",
+    "name": "Unto the Summit",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0405",
+    "name": "The Resilient Son",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0406",
+    "name": "A New Family",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0407",
+    "name": "In Pursuit of Sphene",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0408",
+    "name": "Through the Gate of Gold",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0409",
+    "name": "Those Who Live Forever",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0410",
+    "name": "In Serenity and Sorrow",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0411",
+    "name": "The Land of Dreams",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0412",
+    "name": "A Knight of Alexandria",
+    "expansion": "Dawntrail",
+    "patch": "Level 98-99",
+    "level": 99
+  },
+  {
+    "id": "msq-0413",
+    "name": "The Sanctuary of the Strong",
+    "expansion": "Dawntrail",
+    "patch": "Level 100",
+    "level": 100
+  },
+  {
+    "id": "msq-0414",
+    "name": "The Taste of Family",
+    "expansion": "Dawntrail",
+    "patch": "Level 100",
+    "level": 100
+  },
+  {
+    "id": "msq-0415",
+    "name": "Leafing through the Past",
+    "expansion": "Dawntrail",
+    "patch": "Level 100",
+    "level": 100
+  },
+  {
+    "id": "msq-0416",
+    "name": "An Explorer's Delight",
+    "expansion": "Dawntrail",
+    "patch": "Level 100",
+    "level": 100
+  },
+  {
+    "id": "msq-0417",
+    "name": "In Search of Discovery",
+    "expansion": "Dawntrail",
+    "patch": "Level 100",
+    "level": 100
+  },
+  {
+    "id": "msq-0418",
+    "name": "A Journey Never-ending",
+    "expansion": "Dawntrail",
+    "patch": "Level 100",
+    "level": 100
+  },
+  {
+    "id": "msq-0419",
+    "name": "Dawntrail",
+    "expansion": "Dawntrail",
+    "patch": "Level 100",
+    "level": 100
+  },
+  {
+    "id": "msq-0420",
+    "name": "A Royal Invitation",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.1 (Crossroads)",
+    "level": 100
+  },
+  {
+    "id": "msq-0421",
+    "name": "Alexandria Mourns",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.1 (Crossroads)",
+    "level": 100
+  },
+  {
+    "id": "msq-0422",
+    "name": "In Search of the Past",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.1 (Crossroads)",
+    "level": 100
+  },
+  {
+    "id": "msq-0423",
+    "name": "Among the Abandoned",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.1 (Crossroads)",
+    "level": 100
+  },
+  {
+    "id": "msq-0424",
+    "name": "Guidance of the Hhetso",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.1 (Crossroads)",
+    "level": 100
+  },
+  {
+    "id": "msq-0425",
+    "name": "The Warmth of Family",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.1 (Crossroads)",
+    "level": 100
+  },
+  {
+    "id": "msq-0426",
+    "name": "Crossroads",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.1 (Crossroads)",
+    "level": 100
+  },
+  {
+    "id": "msq-0427",
+    "name": "A Glimmer of the Past",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0428",
+    "name": "Memories of a Bygone Age",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0429",
+    "name": "In Search of Meaning",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0430",
+    "name": "A Jewel Shattered",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0431",
+    "name": "The Meeting",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0432",
+    "name": "Descent to the Foundation",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0433",
+    "name": "Shared Paths",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0434",
+    "name": "Seekers of Eternity",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.2 (Seekers of Eternity)",
+    "level": 100
+  },
+  {
+    "id": "msq-0435",
+    "name": "Targeted Tragedy",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0436",
+    "name": "The Endless Choice",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0437",
+    "name": "My Memories and Yours",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0438",
+    "name": "A Darkness in the Heart",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0439",
+    "name": "Preservation Their Purpose",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0440",
+    "name": "A Calculated Evolution",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0441",
+    "name": "One of Our Own",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0442",
+    "name": "A Terminal Invitation",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0443",
+    "name": "Blades in Waiting",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0444",
+    "name": "The Promise of Tomorrow",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.3 (The Promise of Tomorrow)",
+    "level": 100
+  },
+  {
+    "id": "msq-0445",
+    "name": "With the Winds",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0446",
+    "name": "Through the Thunder",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0447",
+    "name": "Beyond the Mountains",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0448",
+    "name": "Around the City",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0449",
+    "name": "To Work",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0450",
+    "name": "In Her Heart",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0451",
+    "name": "Toward Trouble",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0452",
+    "name": "Where We Call Home",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0453",
+    "name": "Into the Mist",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.4 (Into the Mist)",
+    "level": 100
+  },
+  {
+    "id": "msq-0454",
+    "name": "In Fate's Footsteps",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.5 (Trail to the Heavens - Part 1)",
+    "level": 100
+  },
+  {
+    "id": "msq-0455",
+    "name": "Two Worlds Entwined",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.5 (Trail to the Heavens - Part 1)",
+    "level": 100
+  },
+  {
+    "id": "msq-0456",
+    "name": "A Grave Presentiment",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.5 (Trail to the Heavens - Part 1)",
+    "level": 100
+  },
+  {
+    "id": "msq-0457",
+    "name": "A Beacon from Beyond",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.5 (Trail to the Heavens - Part 1)",
+    "level": 100
+  },
+  {
+    "id": "msq-0458",
+    "name": "Trail to the Heavens",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.5 (Trail to the Heavens - Part 1)",
+    "level": 100
+  },
+  {
+    "id": "msq-0459",
+    "name": "A Winter's Dream",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.56 (Trail to the Heavens - Part 2)",
+    "level": 100
+  },
+  {
+    "id": "msq-0460",
+    "name": "A Rush of Cold Wind",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.56 (Trail to the Heavens - Part 2)",
+    "level": 100
+  },
+  {
+    "id": "msq-0461",
+    "name": "The World Locked in Ice",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.56 (Trail to the Heavens - Part 2)",
+    "level": 100
+  },
+  {
+    "id": "msq-0462",
+    "name": "Windborne",
+    "expansion": "Post-Dawntrail",
+    "patch": "Patch 7.56 (Trail to the Heavens - Part 2)",
+    "level": 100
+  }
+]
