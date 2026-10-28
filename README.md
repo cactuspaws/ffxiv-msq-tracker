@@ -36,3 +36,11 @@ GitHub Pages: **Settings → Pages → Build and deployment → Deploy from a br
 ## Important
 
 Browser storage is device- and browser-specific, and is not automatically synced. Export backups regularly. The date-detachment toggle affects newly completed quests, not previously completed ones. Changing the deadline recalculates today's target.
+
+## Generate the full quest database
+
+The repository includes a GitHub Actions workflow named **Update MSQ quest database**. Open **Actions**, select that workflow, and choose **Run workflow**. It downloads the community wiki's ordered MSQ tables, extracts quests starting at Soul Searching, validates milestones and a minimum expected count, and commits `quests.json` if validation succeeds. If it fails, check the Actions log; no partial database is committed.
+
+Quest source: https://ffxiv.consolegameswiki.com/wiki/Main_Scenario_Quests (community-maintained, subject to change).
+
+**Before relying on the tracker**, verify that `quests.json` exists and that the first/last quest and expansion totals are correct. The generator has not yet been verified by a successful GitHub Actions run.
