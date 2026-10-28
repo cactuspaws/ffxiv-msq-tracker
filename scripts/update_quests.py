@@ -48,15 +48,13 @@ def main():
             elif node.name == "h3":
                 subsection = title
             continue
-        if "wikitable" not in node.get("class", []):
-            continue
         if not any(section.startswith(s) for s in HEADINGS):
             continue
         rows = node.find_all("tr")
         if not rows:
             continue
         header = [clean(c.get_text(" ", strip=True)).lower() for c in rows[0].find_all(["th", "td"], recursive=False)]
-        if not header or header[0] != "quest" or "level" not in header:
+        if not header or not header[0].startswith("quest") or "level" not in header:
             continue
         level_index = header.index("level")
         for tr in rows[1:]:
@@ -76,6 +74,7 @@ def main():
                 continue
             seen.add(key)
             entries.append({"id": f"msq-{len(entries)+1:04d}", "name": name, "expansion": section.replace(" Main Scenario Quests", ""), "patch": subsection, "level": int(level)})
+    print(f"DEBUG: found {len(entries)} entries, current section={section!r}, first candidate={entries[:2]!r}")
     if not started:
         raise RuntimeError(f"Could not locate starting quest {START!r}; refusing to overwrite dataset")
     names = [e["name"] for e in entries]
